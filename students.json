@@ -25,5 +25,59 @@
     "links": [
       { "rotulo": "ORCID", "url": "https://orcid.org/0009-0002-2623-5089" }
     ]
+  },
+  {
+    "nome": "Valéria Sandra de Oliveira Costa",
+    "curso": "Pós-doutora em Desenvolvimento e Meio Ambiente",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0002-6632-2489" }
+    ]
+  },
+  {
+    "nome": "Raianna Galvão Dantas Silva",
+    "curso": "Geografia - Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-6019-5967" }
+    ]
+  },
+  {
+    "nome": "Tayran Oliveira dos Santos",
+    "curso": "Doutoranda",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0003-0330-8177" }
+    ]
+  },
+  {
+    "nome": "Nara Tôrres Silveira",
+    "curso": "Doutoranda",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0003-2934-1039" }
+    ]
+  },
+  {
+    "nome": "Maria Leidiane Ferreira",
+    "curso": "Mestranda",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-3606-0982" }
+    ]
+  },
+  {
+    "nome": "Raphaela Karinne dos Santos Bello",
+    "curso": "Doutoranda",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-3170-3125" }
+    ]
   }
 ]
