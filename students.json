@@ -1,22 +1,29 @@
 [
   {
     "nome": "João Guilherme Gonçalves da Rocha",
-    "curso": "Geografia Bacharelado — Sensoriamento Remoto a partir de Imagens de Drone",
+    "curso": "Geografia — Bacharelado",
     "descricao": "Estuda da Universidade Federal de Pernambuco desde 2024",
     "contato": "joao.grocha@ufpe.br",
     "links": [
-      { "rotulo": "Lattes", "url": "http://lattes.cnpq.br/0000000000000000" },
       { "rotulo": "ORCID", "url": "https://orcid.org/0000-0000-0000-0000" }
     ]
   },
   {
-    "nome": "Segundo Aluno",
-    "curso": "Geografia — Uso e Cobertura da Terra",
+    "nome": "Graziela Gislaine Lima dos Santos",
+    "curso": "Geografia — Bacharelado",
     "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
     "contato": "",
     "links": [
-      { "rotulo": "Lattes", "url": "http://lattes.cnpq.br/0000000000000000" },
-      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0000-0000-0000" }
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0004-3485-7966" }
     ]
-  }
+  },
+  {
+    "nome": "Joyce Catarina Rodrigues Brainer",
+    "curso": "Geografia — Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0002-2623-5089" }
+    ]
+  },
 ]
