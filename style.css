@@ -1,0 +1,195 @@
+:root {
+  --bg: #17261F;
+  --bg-panel: #1D2E26;
+  --ink: #F1EDE1;
+  --ink-dim: #B7C4BB;
+  --line: #33453B;
+  --amber: #C9A227;
+  --moss: #7FA65A;
+  --radius: 3px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { animation: none !important; transition: none !important; }
+}
+
+/* ---------- Hero ---------- */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 4.5rem 1.5rem 3.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.contours {
+  position: absolute;
+  inset: 0;
+  opacity: 0.5;
+}
+
+.contours svg {
+  width: 100%;
+  height: 100%;
+}
+
+.contour {
+  fill: none;
+  stroke: var(--moss);
+  stroke-width: 1.5;
+  opacity: 0.35;
+  stroke-dasharray: 1400;
+  stroke-dashoffset: 1400;
+  animation: draw 2.2s ease-out forwards;
+}
+
+.c2 { stroke: var(--amber); opacity: 0.28; animation-delay: 0.12s; }
+.c3 { opacity: 0.22; animation-delay: 0.24s; }
+.c4 { stroke: var(--amber); opacity: 0.18; animation-delay: 0.36s; }
+
+@keyframes draw {
+  to { stroke-dashoffset: 0; }
+}
+
+.hero-inner {
+  position: relative;
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.kicker {
+  margin: 0 0 0.6rem;
+  font-size: 0.95rem;
+  color: var(--moss);
+  font-weight: 500;
+}
+
+.hero h1 {
+  font-family: "Spectral", Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(2.1rem, 5vw, 2.9rem);
+  margin: 0 0 0.9rem;
+  color: var(--ink);
+}
+
+.lede {
+  margin: 0;
+  max-width: 56ch;
+  color: var(--ink-dim);
+  font-size: 1.05rem;
+}
+
+/* ---------- Lista de alunos ---------- */
+
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.loading {
+  color: var(--ink-dim);
+}
+
+.aluno {
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.aluno:first-child { padding-top: 0; }
+.aluno:last-child { border-bottom: none; }
+
+.aluno-topo {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.aluno-nome {
+  font-family: "Spectral", Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--ink);
+}
+
+.aluno-curso {
+  font-size: 0.92rem;
+  color: var(--moss);
+  white-space: nowrap;
+}
+
+.aluno-descricao {
+  margin: 0.6rem 0 0;
+  color: var(--ink-dim);
+  max-width: 62ch;
+}
+
+.aluno-links {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0;
+  margin: 1rem 0 0;
+  padding: 0;
+}
+
+.aluno-links li:not(:last-child)::after {
+  content: "·";
+  color: var(--line);
+  margin: 0 0.7rem;
+}
+
+.aluno-links a {
+  color: var(--amber);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.aluno-links a:hover,
+.aluno-links a:focus-visible {
+  border-bottom-color: var(--amber);
+}
+
+.aluno-links a:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 3px;
+  border-radius: var(--radius);
+}
+
+.vazio {
+  color: var(--ink-dim);
+}
+
+/* ---------- Rodapé ---------- */
+
+footer {
+  text-align: center;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--ink-dim);
+  font-size: 0.85rem;
+}
+
+/* ---------- Responsivo ---------- */
+
+@media (max-width: 480px) {
+  .aluno-topo { flex-direction: column; gap: 0.2rem; }
+}
