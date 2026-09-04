@@ -5,7 +5,7 @@
     "descricao": "Estuda da Universidade Federal de Pernambuco desde 2024",
     "contato": "joao.grocha@ufpe.br",
     "links": [
-      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0000-0000-0000" }
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0001-3779-0144" }
     ]
   },
   {
@@ -78,6 +78,158 @@
     "contato": "",
     "links": [
       { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-3170-3125" }
+    ]
+  },
+  {
+    "nome": "José Vinicius Florêncio",
+    "curso": "Mestrando",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0003-4752-6440" }
+    ]
+  },
+  {
+    "nome": "Antonio Celso de Leite",
+    "curso": "Sem info",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0002-1843-4814" }
+    ]
+  },
+  {
+    "nome": "Jamylle Andressa",
+    "curso": "Geografia - Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-0908-4452" }
+    ]
+  },
+  {
+    "nome": "Rodrigo Gomes de Lucena",
+    "curso": "Doutorando",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0001-6704-8496" }
+    ]
+  },
+   {
+    "nome": "Werônica Meira de Souza",
+    "curso": "Pós-Doutorado no Potsdam Institute for Climate Impact Research",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0002-6270-2345" }
+    ]
+  },
+  {
+    "nome": "Cloves Vilas Boas dos Santos",
+    "curso": "Pós-Doutorado Agrometeorologia",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0002-2870-8030" }
+    ]
+  },
+  {
+    "nome": "Kawã Fernandes Lima da Silva",
+    "curso": "Geografia - Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0008-9472-7281" }
+    ]
+  },
+  {
+    "nome": "Rafael Carlos de Moura",
+    "curso": "Geografia - Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-2070-6603" }
+    ]
+  },
+  {
+    "nome": "Júlio César Pinto Buarque",
+    "curso": "Geografia - Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0004-6451-8906" }
+    ]
+  },
+  {
+    "nome": "Andrey Medeiros",
+    "curso": "Geografia - Bacharelado",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0001-3281-0951" }
+    ]
+  },
+  {
+    "nome": "Juliana Patrícia Fernandes Guedes Barros",
+    "curso": "Doutoranda",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0002-8715-0735" }
+    ]
+  },
+   {
+    "nome": "Gabriel Antonio Silva Soares",
+    "curso": "Doutorando",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0003-3139-8974" }
+    ]
+  },
+  {
+    "nome": "João Lucas Marques Presbítero",
+    "curso": "Mestrando",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0004-8047-1183" }
+    ],
+    {
+    "nome": "Camila Bandim",
+    "curso": "Doutoranda",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0003-4183-6608" }
+    ]
+  },
+  {
+    "nome": "Tiago Henrique de Oliveira",
+    "curso": "Doutor em Desenvolvimento e Meio Ambiente",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0000-0002-7206-3372" }
+    ]
+  },
+  {
+    "nome": "Veríssimo Pinheiro",
+    "curso": "Doutorando",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0001-9008-3350" }
+    ]
+  },
+  {
+    "nome": "Deyvid Paulo",
+    "curso": "Graduando",
+    "descricao": "Breve descrição da linha de pesquisa, uma ou duas frases.",
+    "contato": "",
+    "links": [
+      { "rotulo": "ORCID", "url": "https://orcid.org/0009-0005-4942-1361" }
     ]
   }
 ]
